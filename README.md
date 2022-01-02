@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Ratkovski&repo=Ratkovski&countColorcountColor)
 
 
 
