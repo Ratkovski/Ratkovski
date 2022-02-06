@@ -19,3 +19,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Stats
+
+![Ratkovski's github stats](https://github-readme-stats.vercel.app/api?username=Ratkovski&show_icons=true&theme=tokyonight)
+
+
+<!--
+<img align="right" alt="count" src="https://count.getloli.com/get/@:Ratkovski?theme=rule34">
+<img align="left" width="480"
+-->
