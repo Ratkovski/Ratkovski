@@ -103,6 +103,10 @@ Here are some ideas to get you started:
 -->
 
 
+### Badges
+[![@ratkovski's Holopin board](https://holopin.io/api/user/board?user=ratkovski)](https://holopin.io/@ratkovski)
+
+
 ## Visitors
 <img align="right" alt="count" src="https://count.getloli.com/get/@:Ratkovski?theme=rule34">
 <img align="left" width="480"
