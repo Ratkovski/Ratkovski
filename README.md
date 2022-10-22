@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ### Skills: JAVA
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JAVA, AWS, PYTHON 
+- 🌱 I’m currently learning JAVA, AWS, REACT
 
 
 
