@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ### Skills: JAVA
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JAVA, AWS, REACT
+- 🌱 I’m currently learning JAVA, AWS, PYTHON
 
 
 
@@ -72,6 +72,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
   <img src="https://user-images.githubusercontent.com/95999134/153581286-a2c75f9f-8257-461d-8cdd-12077ac061c6.png" alt="intellij-idea" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws" width="40" height="40"/> 
