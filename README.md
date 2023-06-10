@@ -1,3 +1,11 @@
+<!-- <div align="center" width="100%">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%ffffff&size=20&center=true&vCenter=true&width=500&lines=I'm+Ratkovski;I'm+a+Student 👨‍🎓, Backend Developer 🚀"
+                                           alt=""></a>
+	<img src="https://github.com/huynlx/huynlx/blob/main/assets/lightning.gif" width="1200" height="3">
+
+</div> -->
+
+
 <!--
 ### Hi there 👋
 
