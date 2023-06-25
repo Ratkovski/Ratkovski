@@ -31,7 +31,7 @@
 
 👨‍💻 My projects can be seen here [repositórios](https://github.com/Ratkovski?tab=repositories)
 
-📄 Learn more about me and my experiences [LinkedIN](https://www.linkedin.com/in/andreza-ratkovski/)
+
 
 </div>
 <br>
