@@ -1,11 +1,11 @@
  <div>
 
 [//]: # (<img src="./docs/lightning.gif" width="100%" height="3" >)
-<img src="./docs/luavermelha.gif" width="100%" height="300">
+<img src="./docs/rain-aesthetic.gif" width="100%" height="300">
 </div>
 
 <div align="center">
-<h2><img src="./docs/asa1.gif" width="100" alt=""> Hi, Welcome👋 I'm Ratkovski! <img src="./docs/asa2.gif" width="100" alt=""></h2>
+<h2><img src="./docs/asaa22.gif" width="100" alt=""> Hi, Welcome👋 I'm Ratkovski! <img src="./docs/asa11.gif" width="100" alt=""></h2>
 
 [//]: # (<img src="./docs/lightning.gif" width="20%" height="1" >)
 </div>
