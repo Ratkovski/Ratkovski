@@ -104,7 +104,9 @@
 <img alt="count" src="https://count.getloli.com/get/@:Ratkovski?theme=rule34">
 
 </div>
-
+<div>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1328002846&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/fighting-koj" title="Edit" target="_blank" style="color: #cccccc; text-decoration: none;">Edit</a> · <a href="https://soundcloud.com/fighting-koj/suzume-no-tojimari-lyrics-mp3" title="스즈메의 문단속 - 참새  | すずめの戸締とじまり - すずめ  | suzume no tojimari  lyrics" target="_blank" style="color: #cccccc; text-decoration: none;">스즈메의 문단속 - 참새  | すずめの戸締とじまり - すずめ  | suzume no tojimari  lyrics</a></div>
+</div>
 <p align="center">
         <img src="docs/cf3a49135903777.61f0168cc7e02.gif" width="100%" height="200"/>
 </p>
