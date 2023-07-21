@@ -15,14 +15,15 @@
 
 </br>
 
-<h2 align="center">I'm a Student 👨‍🎓, Backend Developer 🚀</h2>
+<h2 align="center">I'm a Eternal Student 👨‍🎓, Backend Developer 🚀</h2>
 
 <br> </br>
+<br> </br>
 <div>  
-<img height="450em" align="right" alt="ratkovski octacat" src="docs/octocat-2.png"> 
+<img height="490em" align="right" alt="ratkovski octacat" src="docs/octocat-2.png"> 
 </div>
 
-<div align="center" >
+<div  >
 
 
 🔭 I'm currently a backend software developer
@@ -30,6 +31,27 @@
 🌱 I’m currently learning **JAVA, AWS, PYTHON, INFORMATION SECURITY**
 
 👨‍💻 My projects can be seen here [repositórios](https://github.com/Ratkovski?tab=repositories)
+
+📚 Amazing repositories for your studies ⬇️ ⬇️ ⬇️
+
+   [Books](https://github.com/cjbt/Free-Algorithm-Books/tree/master/book)
+   
+   [Clean Code Notes](https://github.com/JuanCrg90/Clean-Code-Notes#chapter1)
+   
+   [Universidade Live - Cursos](https://github.com/Universidade-Livre/ciencia-da-computacao)
+   
+   [Guia Extenso de Programação](https://github.com/arthurspk/guiadevbrasil)
+
+ 📚 Amazing sites for your studies ⬇️ ⬇️ ⬇️
+
+ [Notes for professionals](https://books.goalkicker.com/)
+
+ [Roadmap](https://roadmap.sh/)
+
+ [Profissional em T](https://techguide.sh/)
+
+ [Dev Docs](https://devdocs.io/)
+ 
 
 
 
