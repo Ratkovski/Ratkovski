@@ -41,6 +41,8 @@
    [Universidade Live - Cursos](https://github.com/Universidade-Livre/ciencia-da-computacao)
    
    [Guia Extenso de Programação](https://github.com/arthurspk/guiadevbrasil)
+   
+   [Free Educa](https://github.com/free-educa)
 
  📚 Amazing sites for your studies ⬇️ ⬇️ ⬇️
 
