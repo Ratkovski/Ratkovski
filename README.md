@@ -1,23 +1,29 @@
  <div>
 
 [//]: # (<img src="./docs/lightning.gif" width="100%" height="3" >)
-<img src="./docs/rain-aesthetic.gif" width="100%" height="300">
+<!--<img src="https://i.gifer.com/5bvO.gif" width="100%" height="5">
+<img src="https://tenor.com/view/line-neon-colorful-straigt-line-gif-17184892" width="100%" height="10">
+<img src="https://i.gifer.com/Cad.gif" width="100%" height="15">-->
+<img src="https://i.gifer.com/J59.gif" width="100%" height="20">
+<img src="" width="100%" height="">
 </div>
 
+<!--
 <div align="center">
 <h2><img src="./docs/asaa22.gif" width="100" alt=""> Hi, Welcome👋 I'm Ratkovski! <img src="./docs/asa11.gif" width="100" alt=""></h2>
 
 [//]: # (<img src="./docs/lightning.gif" width="20%" height="1" >)
+</div>-->
+
+<div align="center">
+<h2><img src="./docs/asaa22.gif" width="100" alt=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F8F8FF&center=true&vCenter=true&random=false&width=435&lines=Hi+Welcome%2C+I'm+Ratkovski" /><img src="./docs/asa11.gif" width="100" alt=""></h2>
 </div>
+
 <!-- https://myoctocat.com/build-your-octocat/ -->
 
 <br>
 
-</br>
 
-<h2 align="center">I'm a Eternal Student 👨‍🎓, Backend Developer 🚀</h2>
-
-<br> </br>
 <br> </br>
 <div>  
 <img height="490em" align="right" alt="ratkovski octacat" src="docs/octocat-2.png"> 
@@ -122,6 +128,8 @@
 [//]: # (![]&#40;http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ratkovski&theme=dark&#41;![]&#40;http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ratkovski&theme=dark&utcOffset=8&#41;)
 </div>
 
+
+
 <div align="center">
 
 ## Visitors
@@ -129,9 +137,4 @@
 
 </div>
 
-
-
-<p align="center">
-        <img src="docs/cf3a49135903777.61f0168cc7e02.gif" width="100%" height="200"/>
-</p>
 
