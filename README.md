@@ -6,7 +6,6 @@
 <img src="https://i.gifer.com/Cad.gif" width="100%" height="15">
 <img src="https://i.gifer.com/J59.gif" width="100%" height="20">-->
 <img src="./docs/J59.gif" width="100%" height="20">
-<img src="" width="100%" height="">
 </div>
 
 <!--
